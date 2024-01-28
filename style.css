@@ -11,9 +11,10 @@ body {
 }
 
 .container {
-    border: 3px solid black;
-    margin: 12px;
+    border: 5px solid black;
+    margin: 3%;
     padding: 2%;
+    background-color: rgb(255, 199, 199);
 }
 
 .row0{
